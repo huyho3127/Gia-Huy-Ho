@@ -1,0 +1,7 @@
+{
+  "name": "VietPrime Luxury Leather",
+  "description": "A premium e-commerce experience for handcrafted Italian leather goods, featuring immersive storytelling, collection explorers, and an AI-powered personal stylist.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
